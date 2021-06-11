@@ -3,3 +3,5 @@ Szervusz, Világ!
 git checkout -b feature
 
 git checkout main
+
+Ez meg a fícsörös.
